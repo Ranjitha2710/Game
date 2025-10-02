@@ -4,7 +4,7 @@ A simple browser-based **Simon Says** game using **HTML, CSS, and JavaScript**.
 Test your memory by repeating sequences of colors as they flash on the screen!
 
 
-## How to Play
+## How to Play the Game
 1. Open the game in a browser.
 2. Press any key to start.
 3. Watch the sequence of colors flash on the screen.
@@ -28,7 +28,7 @@ Test your memory by repeating sequences of colors as they flash on the screen!
 
 ## File Structure
 simon-says/
-├── index.html # Main HTML file
-├── simon.css # Stylesheet
-└── simon.js # JavaScript game logic
+├── index.html  # Main HTML file
+├── simon.css  # Stylesheet
+└── simon.js  # JavaScript game logic
 
